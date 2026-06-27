@@ -8,7 +8,7 @@ public class student {
 
     System.out.println("Hello and welcome Prajwal Sir!");
 
-        System.out.println("Hello and welcome Arti Madam!");
+        System.out.println("Hello and welcome Arti !");
 
 
 
