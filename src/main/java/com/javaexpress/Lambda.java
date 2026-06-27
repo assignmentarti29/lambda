@@ -11,6 +11,7 @@ public class Lambda {
             List<String> names = Arrays.asList("Arati", "Rahul", "Neha");
 
             names.forEach(name -> System.out.println(name));
+
         }
     }
 
